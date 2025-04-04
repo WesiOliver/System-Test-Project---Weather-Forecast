@@ -24,7 +24,7 @@ Foram testadas diversas funcionalidades, incluindo:
 
 ## 📖 Documentação do Plano de Teste
 Para mais detalhes sobre os testes realizados, consulte a documentação completa disponível no repositório:  
-📄 **[Acesse o plano de teste aqui](plano_de_teste.pdf)**
+📄 **[Acesse o plano de teste aqui](https://github.com/WesiOliver/Projeto-de-Teste-de-Sistema---Previs-o-do-Tempo/blob/1b50380f4d2c4279b9c35e9c3181cd5e2396babd/Plano%20de%20Teste%20-%20Sistema%20de%20Previs%C3%A3o%20de%20Tempo.pdf)**
 
 ## 📌 Como Executar os Testes
 1. **Clone o repositório:**
