@@ -1,5 +1,5 @@
-const key = "3602b9c6cd71b143d7255a1072f85c9c";
-const openCageKey = "04e2a4e17e7a4f3bb54b5b077cf399ff"; 
+const key = "suakey;
+const openCageKey = "suakey"; 
 
 function colocarNaTela(dados, estado, pais) {
     console.log(dados);
